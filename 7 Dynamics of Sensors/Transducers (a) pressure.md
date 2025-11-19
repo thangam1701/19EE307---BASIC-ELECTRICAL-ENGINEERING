@@ -1,5 +1,5 @@
 ## Exp. No. 7
-**Date:**  
+**Date:**  06.10.2025
 
 ## Dynamics of Sensors/Transducers (a) pressure 
 
@@ -110,12 +110,15 @@ Effect of ambient conditions
 
 # Circuit Diagram in software
 
-
+<img width="1435" height="797" alt="image" src="https://github.com/user-attachments/assets/0f702cf1-d2fc-428c-9c25-7072347b252f" />
+<img width="1457" height="795" alt="image" src="https://github.com/user-attachments/assets/bf1bb4c2-c8f4-42ad-b39d-768380de108b" />
+<img width="1483" height="803" alt="image" src="https://github.com/user-attachments/assets/b557c10f-a62e-4b9a-8463-afab48f6f39f" />
 
 # Output Graph / Tabulation
-
-
-# Sample images
-
+![7th L1-Graph](https://github.com/user-attachments/assets/99816e8a-acc3-4784-9563-fa997826d764)
+![7th L2-Graph](https://github.com/user-attachments/assets/2170d343-d633-4838-8b22-800f74b5c759)
+![7th L3-Graph](https://github.com/user-attachments/assets/087f58e2-417c-49e1-a553-0b12937133b6)
 
 # Result
+The working principle of strain gauge using strain gauge simulator is studied.
+
