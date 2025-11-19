@@ -1,5 +1,5 @@
 ## Exp. No. 5
-**Date:**  
+**Date:**  22.09.2025
 
 ## Speed control of DC shunt motor.
 
@@ -17,13 +17,16 @@ To study the speed control of D.C. Shunt motor by armature control method. Draw 
 
 
 # Circuit Diagram in software
+<img width="1296" height="728" alt="image" src="https://github.com/user-attachments/assets/09ae06a6-dd9e-4407-85bb-0857ab7dccda" />
 
 
 
-# Output Graph / Tabulation
+# Output Tabulation
+![5th-table](https://github.com/user-attachments/assets/0a35df11-ebe6-4aff-acc8-3d986cce23a7)
 
-
-# Sample images
+# Output Graph
+![5th-graph](https://github.com/user-attachments/assets/a4ea754b-b003-4009-b485-fe259fdca284)
 
 
 # Result
+Thus the speed control of DC shunt motor is obtained using armature and field current method 
