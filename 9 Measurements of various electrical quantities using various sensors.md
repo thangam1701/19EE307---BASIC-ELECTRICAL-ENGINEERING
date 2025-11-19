@@ -1,5 +1,5 @@
 ## Exp. No. 9
-**Date:**  
+**Date:** 27/10/2025 
 
 ## Measurements of various electrical quantities using various sensors
 
@@ -133,13 +133,16 @@ Insulation resistance: It is the largest cause of errors and failure of RTD. The
 Self heating: The very small cross-sectional areas in the sensing elements will tend to heat when electrical current is applied. Most RTDs are specified to be operated with a current of 1 milliampere or less.
 
 # Circuit Diagram in software
+<img width="951" height="790" alt="Screenshot 2025-11-15 071547" src="https://github.com/user-attachments/assets/d5be6bf4-f0dd-4714-874f-e7d812f78d02" />
 
+<img width="956" height="727" alt="Screenshot 2025-11-15 071439" src="https://github.com/user-attachments/assets/60497930-81e4-41e5-89e8-89987bbb97bb" />
 
 
 # Output Graph / Tabulation
-
-
-# Sample images
+![9th L2-Graph](https://github.com/user-attachments/assets/d06bf047-aed0-44e1-91e8-f0337c8a5df3)
 
 
 # Result
+The RTD output resistance increased linearly with temperature, confirming its positive temperature coefficient behavior. The plotted characteristics matched theoretical RTD equations, proving accurate and stable temperature measurement.
+
+The RTD output resistance increased linearly with temperature, confirming its positive temperature coefficient behavior. The plotted characteristics matched theoretical RTD equations, proving accurate and stable temperature measurement.
