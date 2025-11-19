@@ -1,5 +1,5 @@
-## Exp. No. 4
-**Date:**  
+## Exp. No. 4 LOAD CHARACTERISTICS OF DC SHUNT GENERATOR
+**Date:**  15.09.2025
 
 ## Open circuit and load characteristics of DC shunt generator- critical resistance.
 
@@ -17,12 +17,16 @@ To study the load characterstics of DC Shunt Generator. Draw the internal charac
 
 # Circuit Diagram in software
 
+<img width="1654" height="757" alt="image" src="https://github.com/user-attachments/assets/36fcd155-c396-4181-a0a0-6b8315dbbad4" />
 
 
 # Output Graph / Tabulation
 
+![WhatsApp Image 2025-11-19 at 22 10 40_712ae4c0](https://github.com/user-attachments/assets/a697b5a0-ef6d-453a-92a8-252ae1ac9f87)
 
-# Sample images
+
+<img width="1300" height="400" alt="newplot" src="https://github.com/user-attachments/assets/fefa19bf-0247-448a-9a4a-96577db947bb" />
 
 
 # Result
+Thus the internal and external characteristics of DC shunt generator at different loading is obtained
